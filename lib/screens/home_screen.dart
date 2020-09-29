@@ -22,7 +22,7 @@ class _HomeScreen extends State<HomeScreen> {
           onPressed: () {},
         ),
         title: Text(
-          "Nidhi Chats",
+          "Nidhi Chats Demo",
           style: TextStyle(fontSize: 28.0, fontWeight: FontWeight.bold),
         ),
         actions: <Widget>[
