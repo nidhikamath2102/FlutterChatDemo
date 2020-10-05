@@ -1,6 +1,6 @@
 # flutterapp
 
-A new Flutter application created by Nidhi Kamath
+A new Flutter UI application created by Nidhi Kamath
 
 ## Getting Started
 
